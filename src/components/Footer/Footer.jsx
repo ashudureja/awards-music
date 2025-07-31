@@ -41,9 +41,9 @@ const Footer = () => {
           <h3>Our Location</h3>
           <p className="primary">
             123 Harmony Lane <br />
-            Los Angeles, CA 90210, USA
+            Sydney, NSW 2479, Australia
           </p>
-          <p>Designed by Codegrid</p>
+          <p>Designed by Ashu Dureja</p>
         </div>
       </div>
 
