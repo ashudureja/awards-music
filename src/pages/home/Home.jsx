@@ -4,7 +4,7 @@ import Footer from "../../components/Footer/Footer";
 
 import ParallaxImage from "../../components/ParallaxImage/ParallaxImage";
 import MusicPlayer from "../../components/MusicPlayer/MusicPlayer";
-import Transition from "../../components/transition/Transition";
+import Transition from "../../components/Transition/Transition";
 
 import "./Home.css";
 
